@@ -1,4 +1,4 @@
-//Feature 1
+//Feature 1 we change the code and check it from gitHib
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
